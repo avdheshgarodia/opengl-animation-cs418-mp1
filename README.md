@@ -5,6 +5,7 @@ Mp Done on Mac OS X 10.9.4
 Using C++ and GLUT and OpenGL
 Xcode was not used.
 
+
 Compilation instructions
 1. Navigate to source folder in Terminal
 2. Run the MakeFile by calling make
