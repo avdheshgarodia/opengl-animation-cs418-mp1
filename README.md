@@ -2,8 +2,7 @@
 Simple Animation done in OpenGL of a dancing letter I. Linear interpolation is used to transition between keyframes. 
 
 Mp Done on Mac OS X 10.9.4
-Using C++ and GLUT
-
+Using C++ and GLUT and OpenGL
 Xcode was not used.
 
 Compilation instructions
